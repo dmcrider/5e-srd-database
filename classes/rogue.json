@@ -1,0 +1,43 @@
+{
+    "name": "Rogue",
+    "hit_die": 8,
+    "proficiency_choices": [
+        {
+            "skills": "Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth"
+        }
+    ],
+    "proficiencies": {
+        "armor": [
+            "light armor"
+        ],
+        "weapons": [
+            "simple weapons"
+        ],
+        "tools": [
+            "thieves' tools"
+        ],
+        "saving_throws": [
+            "DEX",
+            "INT"
+        ]
+    },
+    "starting_equipment": [
+        {
+            "name": "Leather Armor",
+            "quantity": 1
+        },
+        {
+            "name": "Dagger",
+            "quantity": 2
+        },
+        {
+            "name": "Thieves' Tools",
+            "quantity": 1
+        }
+    ],
+    "starting_equipment_options": [
+        "(a) a rapier or (b) a shortsword",
+        "(a) a shortbow and quiver of 20 arrows or (b) a shortsword",
+        "(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack"
+    ]
+}

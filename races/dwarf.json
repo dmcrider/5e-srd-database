@@ -1,0 +1,37 @@
+{
+    "name": "Dwarf",
+    "speed": 25,
+    "ability_bonuses": [
+        {
+            "name": "CON",
+            "bonus": 2
+        }
+    ],
+    "alignment": "Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.",
+    "age": "Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.",
+    "size": "Medium",
+    "size_description": "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.",
+    "starting_proficiencies": {
+        "weapons": [
+            "Battleaxes",
+            "Handaxes",
+            "Light hammers",
+            "Warhammers"
+        ]
+    },
+    "starting_proficiency_options": [
+        "You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools."
+    ],
+    "languages": [
+        "Common",
+        "Dwarvish"
+    ],
+    "language_desc": "You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.",
+    "traits": [
+        "Darkvision",
+        "Dwarven Resilience",
+        "Stonecunning",
+        "Dwarven Combat Training",
+        "Tool Proficiency"
+    ]
+}
