@@ -1,0 +1,41 @@
+{
+    "name": "Human",
+    "speed": 30,
+    "ability_bonuses": [
+        {
+            "name": "STR",
+            "bonus": 1
+        },
+        {
+            "name": "DEX",
+            "bonus": 1
+        },
+        {
+            "name": "CON",
+            "bonus": 1
+        },
+        {
+            "name": "INT",
+            "bonus": 1
+        },
+        {
+            "name": "WIS",
+            "bonus": 1
+        },
+        {
+            "name": "CHA",
+            "bonus": 1
+        }
+    ],
+    "age": "Humans reach adulthood in their late teens and live less than a century.",
+    "alignment": "Humans tend toward no particular alignment. The best and the worst are found among them.",
+    "size": "Medium",
+    "size_description": "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.",
+    "starting_proficiencies": [],
+    "languages": [
+        "Common",
+        "One additional language of your choice"
+    ],
+    "language_desc": "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.",
+    "traits": []
+}

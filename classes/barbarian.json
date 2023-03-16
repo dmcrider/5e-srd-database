@@ -1,0 +1,38 @@
+{
+    "name": "Barbarian",
+    "hit_die": 12,
+    "proficiency_choices": [
+        {
+            "skills": "Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival"
+        }
+    ],
+    "proficiencies": {
+        "armor": [
+            "Light Armor",
+            "Medium Armor",
+            "Shields"
+        ],
+        "weapons": [
+            "Simple Weapons",
+            "Martial Weapons"
+        ],
+        "saving_throws": [
+            "STR",
+            "CON"
+        ]
+    },
+    "starting_equipment": [
+        {
+            "name": "Explorer's Pack",
+            "quantity": 1
+        },
+        {
+            "name": "Javelin",
+            "quantity": 4
+        }
+    ],
+    "starting_equipment_options": [
+        "(a) a greataxe or (b) any martial melee weapon",
+        "(a) two handaxes or (b) any simple weapon"
+    ]
+}

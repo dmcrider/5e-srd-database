@@ -1,0 +1,32 @@
+{
+    "name": "Fighter",
+    "hit_die": 10,
+    "proficiency_choices": [
+      {
+        "skills":"Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival"
+      }
+    ],
+    "proficiencies": {
+        "armor": [
+            "light armor",
+            "medium armor",
+            "heavy armor",
+            "shields"
+        ],
+        "weapons": [
+            "simple weapons",
+            "martial weapons"
+        ],
+        "saving_throws":[
+            "str",
+            "con"
+        ]
+    },
+    "starting_equipment": [],
+    "starting_equipment_options": [
+        "(a) chain mail or (b) leather armor, longbow, and 20 arrows",
+        "(a) a martial weapon and a shield or (b) two martial weapons",
+        "(a) a light crossbow and 20 bolts or (b) two handaxes",
+        "(a) a dungeoneer's pack or (b) an explorer's pack"
+    ]
+  }

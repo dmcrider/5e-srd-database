@@ -1,0 +1,33 @@
+{
+  "name": "Monk",
+  "hit_die": 8,
+  "proficiency_choices": [
+    {
+      "skills": "Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth"
+    },
+    {
+      "tools": "Choose one type of artisan's tools or one musical instrument"
+    }
+  ],
+  "proficiencies": {
+    "armor": [],
+    "weapons": [
+      "Simple Weapons",
+      "Shortswords"
+    ],
+    "saving_throws": [
+      "STR",
+      "DEX"
+    ]
+  },
+  "starting_equipment": [
+    {
+      "name": "Dart",
+      "quantity": 10
+    }
+  ],
+  "starting_equipment_options": [
+    "(a) a shortsword or (b) any simple weapon",
+    "(a) a dungeoneer's pack or (b) an explorer's pack"
+  ]
+}
